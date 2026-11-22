@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "platform": "android",
+  "channel": "beta",
+  "package_name": "io.abstral.mobile.m0",
+  "version_code": 17,
+  "version": "0.9.1-m2.4.1",
+  "apk_url": "https://github.com/abstrates0000-byte/abstral-releases/releases/download/android-v0.9.1/Abstral-Android-0.9.1.apk",
+  "bytes": 35985216,
+  "sha256": "adfd798ff949cb5b0b438a231978e15f8ae3e6ed4e18cc0838c5f183beb2847f",
+  "notes": "Actualizador Android integrado, comprobación de firma e integridad y mejoras de llamadas M2.4. La instalación requiere confirmación de Android.",
+  "mandatory": false
+}
