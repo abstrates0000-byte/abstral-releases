@@ -3,11 +3,11 @@
     "platform":  "android",
     "channel":  "beta",
     "package_name":  "io.abstral.mobile.m0",
-    "version_code":  21,
-    "version":  "0.10.2-beta",
-    "apk_url":  "https://github.com/abstrates0000-byte/abstral-releases/releases/download/android-v0.10.2/Abstral-Android-0.10.2.apk",
-    "bytes":  36018036,
-    "sha256":  "19e385ee9217f40b881f67a1019a4c11f542e5d274e526127af1e75c11e6e414",
-    "notes":  "M2.5.2: pantalla completa sin cambiar automaticamente de app, servicio de llamada estable al transmitir y retorno sin reconectar el VC.",
+    "version_code":  22,
+    "version":  "0.11.0-beta",
+    "apk_url":  "https://github.com/abstrates0000-byte/abstral-releases/releases/download/android-v0.11.0/Abstral-Android-0.11.0.apk",
+    "bytes":  36034420,
+    "sha256":  "a26546506bb9bab0261b0ad4cce676efa2c7b8154657bb5135603d25acea8023",
+    "notes":  "M2.6: navegacion entre servidores y chats, gestos optimizados, seleccion de canal y borradores por conversacion. No modifica la transmision de pantalla.",
     "mandatory":  false
 }
