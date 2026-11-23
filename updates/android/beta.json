@@ -3,11 +3,11 @@
     "platform":  "android",
     "channel":  "beta",
     "package_name":  "io.abstral.mobile.m0",
-    "version_code":  19,
-    "version":  "0.10.0-beta",
-    "apk_url":  "https://github.com/abstrates0000-byte/abstral-releases/releases/download/android-v0.10.0/Abstral-Android-0.10.0.apk",
-    "bytes":  36017984,
-    "sha256":  "7f175a6a600ec751997db6ccdd3a0d1b13e95c5ab5415ec3663a25e0e8639b24",
-    "notes":  "M2.5: cambio de camara, selector de transmisiones, pantalla completa y mejoras de cuadricula.",
+    "version_code":  20,
+    "version":  "0.10.1-beta",
+    "apk_url":  "https://github.com/abstrates0000-byte/abstral-releases/releases/download/android-v0.10.1/Abstral-Android-0.10.1.apk",
+    "bytes":  36955001,
+    "sha256":  "70622718eaee9821225a20e17419fba69630d7bbeda3609c0f526fd472b498ad",
+    "notes":  "M2.5.1: repara cambio de servidores, video lento, servicio de pantalla compartida y restauracion de sesion/navegacion.",
     "mandatory":  false
 }
